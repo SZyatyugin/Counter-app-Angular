@@ -1,0 +1,26 @@
+.app-counter{
+    width:500px;
+    border:1px solid black;
+    margin:0 auto;
+}
+.app-counter__title{
+    text-align: center;
+}
+.app-counter__wrapper{
+    padding: 15px;
+}
+.counter-btn{
+    display: flex;
+    justify-content: center;
+}
+.btn+.btn{
+    margin-left: 10px;
+}
+.btn{
+    padding: 10px;
+}
+.counter{
+    margin:25px auto;
+    text-align: center;
+    font-size: 25px;
+}
